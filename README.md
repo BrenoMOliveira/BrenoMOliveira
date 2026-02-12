@@ -17,29 +17,23 @@ Sou um desenvolvedor focado no ecossistema Microsoft, com 2 anos de experiência
 
 ## Ferramentas e Tecnologias
 
-### Back End
+### Linguagens
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/csharp.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/dotnet.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/microsoftsqlserver.svg" height="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-### Front End
+### ORMs e Banco de Dados
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/javascript.svg" height="40" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/typescript.svg" height="40" alt="TS" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/react.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/html5.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/css3.svg" height="40" alt="CSS3" />
-</div>
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoMOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMOliveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/prisma.svg" height="40" alt="Prisma" />
 </div>
 
 ---
